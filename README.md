@@ -1,0 +1,1 @@
+Ephemeral public host for PR evidence screenshots (preview-env skills). Assets live on releases.
